@@ -241,7 +241,7 @@ p {
 
 /* Hero Section */
 #hero {
-	background-image: url(./img/photo_2021-08-11_20-50-38.jpg);
+	background-image: url(./img/hero-bg.jpg);
 	background-size: cover;
 	background-position: top center;
 	position: relative;

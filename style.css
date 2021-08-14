@@ -584,9 +584,9 @@ p1 {
 /* contact Section */
 #contact .contact {
 	flex-direction: column;
-	max-width: 1200px;
+	max-width: 1300px;
 	margin: 0 auto;
-	width: 95%;
+	width: 100%;
 }
 #contact .contact-items {
 	/* max-width: 400px; */

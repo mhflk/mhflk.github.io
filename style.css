@@ -584,9 +584,9 @@ p1 {
 /* contact Section */
 #contact .contact {
 	flex-direction: column;
-	max-width: 1250px;
+	max-width: 1200px;
 	margin: 0 auto;
-	width: 95%;
+	width: 90%;
 }
 #contact .contact-items {
 	/* max-width: 400px; */
@@ -614,13 +614,6 @@ p1 {
 	margin: 0 auto;
 	margin-bottom: 10px;
 }
-.icon2 {
-	width: 60px;
-	margin:  auto;
-	margin-top: 5px;
-	margin-left: 10px;
-	margin-bottom: 10px;
-}
 #contact .contact-info h1 {
 	font-size: 2.5rem;
 	font-weight: 500;
@@ -633,6 +626,13 @@ p1 {
 }
 /*End contact Section */
 
+.icon2 {
+	width: 60px;
+	margin:  auto;
+	margin-top: 5px;
+	margin-left: 10px;
+	margin-bottom: 10px;
+}
 /* Footer */
 #footer {
 	background-image: linear-gradient(60deg, #29323c 0%, #485563 100%);
